@@ -19,7 +19,7 @@ bài tập lớn môn trí tuệ nhân tạo
   
 > Tham khảo
 
-  •	Model cho dữ liệu Tiếng Anh tại địa chỉ [ ](https://github.com/fcakyon/craft-text-detector)
+  •	Model cho dữ liệu Tiếng Anh tại địa chỉ (https://github.com/fcakyon/craft-text-detector)
   
-  •	Paper để tham khảo model:  [ ](https://arxiv.org/abs/1904.01941)
+  •	Paper để tham khảo model:  ![](https://arxiv.org/abs/1904.01941)
 
